@@ -15,4 +15,4 @@ This image is available on [Docker Hub](https://hub.docker.com/r/bigrocs/golang-
 | 1.12-alpine | Based on Golang 1.12 (Alpine)
 | 1.13-alpine | Based on Golang 1.13 (Alpine)
 | 1.14-alpine | Based on Golang 1.14 (Alpine)
-| latest      | Same as 1.12-alpine
+| latest      | Same as 1.14-alpine
