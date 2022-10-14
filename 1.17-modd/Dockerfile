@@ -11,3 +11,4 @@ RUN mkdir -p /go/src/modd
 WORKDIR /go/src/modd
 
 CMD ["modd"]
+
