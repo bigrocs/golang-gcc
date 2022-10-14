@@ -2,6 +2,8 @@ name: Build golang-gcc and Publish Docker
 
 on:
   push:
+    paths:
+      - Dockerfile
     branches:
       - master
     tags:
