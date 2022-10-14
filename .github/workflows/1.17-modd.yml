@@ -2,8 +2,6 @@ name: Build golang-gcc-modd and Publish Docker
 
 on:
   push:
-    paths:
-      - 1.17-modd/*
     branches:
       - main
     tags:
