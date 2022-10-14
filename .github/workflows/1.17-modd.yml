@@ -1,4 +1,4 @@
-name: Build user-rpc and Publish Docker
+name: Build golang-gcc-modd and Publish Docker
 
 on:
   push:

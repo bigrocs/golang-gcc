@@ -1,4 +1,4 @@
-name: Build and Publish Docker
+name: Build golang-gcc and Publish Docker
 
 on:
   push:
