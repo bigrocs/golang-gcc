@@ -22,7 +22,7 @@ jobs:
       run: git fetch --prune --unshallow
 
     - name: Publish to Docker Repository
-      uses: elgohr/Publish-Docker-Github-Action@master
+      uses: elgohr/Publish-Docker-Github-Action@v5
       with:
         name: bigrocs/golang-gcc
         username: ${{ secrets.DOCKER_USERNAME }}
