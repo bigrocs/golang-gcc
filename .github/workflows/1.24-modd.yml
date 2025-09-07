@@ -26,6 +26,8 @@ jobs:
           username: ${{ secrets.DOCKER_USERNAME }}
           password: ${{ secrets.DOCKER_PASSWORD }}
           registry: registry.cn-zhangjiakou.aliyuncs.com
-          buildargs: ${{ secrets.ACCES_STOKEN }}
           tags: v1.24
           tag_names: true
+
+
+          
